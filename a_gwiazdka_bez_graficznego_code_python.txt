@@ -134,4 +134,6 @@ else:
 # Wizualizacja
 visualize(grid, anim_frames, start, goal)
 
+#2 odzielne pliki konsolowa i animacji, w konsoli dwie mapy ,przed i po a trase, i current_node = heapq.heappop(open_list) ,zeby brał pierwszy w kolejce a nie ostatni
+
 
